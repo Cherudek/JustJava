@@ -2,4 +2,17 @@
     <string name="app_name">Java App</string>
     <string name="chocolate">Chocolate</string>
     <string name="whipped_cream">Whipped Cream</string>
+    <string name="order">Order</string>
+    <string name="name">\nName</string>
+    <string name="toppings">\nToppings</string>
+    <string name="quantity">\nQuantity</string>
+    <string name="price">\nPrice: £</string>
+    <string name="thanks">\nThank You!</string>
+    <string name="add_cream">\nAdd Whipped Cream?\n</string>
+    <string name="name_email">\nName:</string>
+    <string name="ad_chocolate">\nAdd Chocolate?</string>
+    <string name="quantity_email">\nQuantity:</string>
+    <string name="email_summary">: Coffee Order Summary</string>
+    <string name="less_than">You cannot have less than 1 Coffee!</string>
+    <string name="more_than">You cannot have more than 10 Coffees!</string>
 </resources>
